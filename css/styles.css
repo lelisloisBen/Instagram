@@ -1,0 +1,41 @@
+body {
+    background: #eee;
+    margin: 0;
+}
+.nav {
+    background: white;
+    padding: 10px;
+    text-align: center;
+}
+.nav h1 {
+    margin: 0;
+}
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+.post {
+    background: white;
+    margin-top: 20px;
+}
+.p_header {
+    padding: 10px;
+}
+.header_left {
+    display: inline-block;
+    width: 80%;
+    font-size: 18px;
+    font-weight: bold;
+}
+.header_right {
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+    color: grey;
+}
+.p_body img {
+    width: 100%;
+}
+.p_footer {
+    padding: 10px;
+}
