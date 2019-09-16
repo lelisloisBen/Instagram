@@ -1,5 +1,7 @@
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
+## Instagram Photo Feed
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git)
 
 The most basic boilerplate for any 4Geeks Academy Student using the [gitpod.io](gitpod.io) coding editor.
